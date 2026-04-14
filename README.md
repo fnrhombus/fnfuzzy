@@ -68,11 +68,11 @@ All functions accept optional `threshold`, `limit`, `caseSensitive`, and `highli
 | | fnfuzzy | fuzzy | fuse.js | fast-fuzzy |
 |---|---|---|---|---|
 | **Size** (min+gz) | **1.1KB** | ~1KB | ~6KB | ~4KB |
-| TypeScript | native | no | yes | yes |
-| ESM + CJS | yes | CJS only | yes | yes |
-| Highlighting | yes | yes | no | no |
-| Zero deps | yes | yes | no | no |
-| Maintained | yes | abandoned | yes | yes |
+| TypeScript | ✅ native | ❌ | ✅ | ✅ |
+| ESM + CJS | ✅ | ❌ CJS only | ✅ | ✅ |
+| Highlighting | ✅ | ✅ | ❌ | ❌ |
+| Zero deps | ✅ | ✅ | ❌ | ❌ |
+| Maintained | ✅ | ❌ abandoned | ✅ | ✅ |
 
 ## Install
 
