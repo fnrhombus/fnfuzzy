@@ -39,6 +39,16 @@
     "dist"
   ],
   "sideEffects": false,
+  "bugs": {
+    "url": "https://github.com/fnrhombus/fnfuzzy/issues"
+  },
+  "homepage": "https://github.com/fnrhombus/fnfuzzy#readme",
+  "engines": {
+    "node": ">=20"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "build": "tsup"
   },

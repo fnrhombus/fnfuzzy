@@ -1,14 +1,12 @@
 {
-  "name": "@fnfuzzy/tests",
+  "name": "fnfuzzy-tests",
   "private": true,
   "type": "module",
   "scripts": {
     "test": "vitest run"
   },
   "devDependencies": {
+    "fnfuzzy": "workspace:*",
     "vitest": "^3.1.0"
-  },
-  "dependencies": {
-    "fnfuzzy": "workspace:*"
   }
 }
