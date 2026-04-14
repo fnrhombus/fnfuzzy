@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "pnpm --filter fnfuzzy build",
+    "test": "pnpm --filter @fnfuzzy/tests test"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": ["esbuild"]
+  }
+}
